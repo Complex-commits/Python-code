@@ -1,4 +1,6 @@
 if python == "Best programming language."
     print('Yay!')
-else python == "Worst programming language."
+elif python == "Worst programming language."
     print('Awww :( ')
+else:
+    print('Uncertain')
